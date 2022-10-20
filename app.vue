@@ -1,5 +1,5 @@
 <template>
-  <div>
-    Hello Word Again
-  </div>
+  <HomeTexto/>
+  <Conta/>
+
 </template>
